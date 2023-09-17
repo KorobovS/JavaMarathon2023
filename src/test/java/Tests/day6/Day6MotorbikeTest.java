@@ -9,7 +9,7 @@
 //
 //public class Day6MotorbikeTest extends AbstractTest {
 //
-//    Motorbike motorbike = new Motorbike("bmw", "red", 2000);
+//    Motorbike motorbike = new Motorbike(2000, "red", "bmw");
 //
 //    @Test
 //    public void info() {
