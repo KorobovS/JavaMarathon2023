@@ -18,7 +18,7 @@
 //    void addNewMessage() {
 //        User a = new User("a");
 //        User b = new User("b");
-//        MessageDatabase.addNewMessage(a, b, "hi");
+//        MessageDatabase.sendMessage(a, b, "hi");
 //        Assertions.assertEquals(1, MessageDatabase.getMessages().size(),
 //                "Пользователь 1 отправляет сообщение пользователю 2. Количество сообщений в базе данных");
 //    }
@@ -38,4 +38,3 @@
 //    }
 //
 //}
-//
